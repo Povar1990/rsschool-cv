@@ -87,4 +87,13 @@ text-align: center;
 .AboutMe{
     text-align: end;
     padding-right: 50px;
+    padding-bottom: 55px;
+}
+
+.text{
+    text-align: end;
+    font-size: 30px;
+    line-height: 50px;
+    padding-left: 450px;
+    padding-right: 50px;
 }
